@@ -1,0 +1,34 @@
+[
+    {
+      "title": "WhipUp",
+      "imageSrc": "projects/whipup1.jpg",
+      "description": "A mobile app for sharing and discovering recipes along with a hands-free cooking mode supported by a virtual assistant",
+      "skills": ["Flutter", "FastAPI" ,"MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/whip_up"
+    },
+    {
+      "title": "Thirft Basket",
+      "imageSrc": "projects/thrift1.jpg",
+      "description": "A web platform facilitating the buying and selling of secondhand apparel, with a focus on sustainability and affordability",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/thrift-basket"
+    },
+    {
+      "title": "Artsy",
+      "imageSrc": "projects/artsy.jpg",
+      "description": "A space for art enthusiasts to explore, share, and showcase their artworks and collections with a global community",
+      "skills": [ "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/Artsy"
+    },
+    {
+      "title": "InTuition",
+      "imageSrc": "projects/intuition.jpeg",
+      "description": "A user-friendly web platform connecting tutors with students for personalized learning experiences and academic support",
+      "skills": [ "PHP", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/Project-Intuition"
+    }
+  ]
